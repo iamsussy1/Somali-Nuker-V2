@@ -1,6 +1,6 @@
 # Somali-Nuker-V2
 
-##This was made by K.Dot and Godfather
+## This was made by K.Dot and Godfather
 
 Dont sell to kids
 
