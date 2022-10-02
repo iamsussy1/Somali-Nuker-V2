@@ -15,11 +15,8 @@ __author__ = 'K.Dot#0001'
 with open('config.json', 'r') as f:
     config = json.load(f)
     TOKEN = config["TOKEN"]
-    CHANNEL_NAMES = config["CHANNEL_NAMES"]
     MESSAGE = config["MESSAGE"]
-    PREFIX = config["PREFIX"]
     AMMOUNT_OF_CHANNELS = config["AMMOUNT_OF_CHANNELS"]
-    SERVER_NAME = config["SERVER_NAME"]
     SPAM_PRN = config["SPAM_PRN"]
     PROXIES = config["PROXIES"]
     MESSAGES_PER_CHANNEL = config["MESSAGES_PER_CHANNEL"]
@@ -36,11 +33,8 @@ banner = Center.XCenter("""
 
 all_choices = f"""
 Token = {TOKEN}
-Channel names = {CHANNEL_NAMES}
 Message = {MESSAGE}
-Prefix = {PREFIX}
 Ammount of channels = {AMMOUNT_OF_CHANNELS}
-Server name = {SERVER_NAME}
 Spam PRN = {SPAM_PRN}
 Proxies = {PROXIES}
 Messages per channel = {MESSAGES_PER_CHANNEL}
