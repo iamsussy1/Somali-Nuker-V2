@@ -4,10 +4,10 @@
 
 ## How to use?
 
-Step 1.) download
-Step 2.) extract zip or whatever floats ur boat
-Step 3.) change config to ur liking
-Step 4.) nuke
+Step 1 download
+Step 2 extract zip or whatever floats ur boat
+Step 3 change config to ur liking
+Step 4 nuke
 
 Dont sell to kids
 
